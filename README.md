@@ -1,5 +1,3 @@
-
-
 "Air Canvas" is an innovative project that harnesses hand gestures as a means of interaction to create digital art or interact with digital interfaces without the need for physical touch. This technology utilizes computer vision, machine learning, and gesture recognition algorithms to detect, interpret, and respond to hand movements captured through cameras or sensors.
 
 Key components and features of the "Air Canvas" project typically include:
@@ -23,4 +21,4 @@ Cross-platform Compatibility: Depending on the implementation, the "Air Canvas" 
 Applications of such a project include digital art creation, interactive presentations, educational tools, or even assistive technology for individuals with mobility impairments.
 
 The project's detailed description often includes technical specifications, the underlying technology stack, methodologies employed for gesture recognition, implementation details, and potential use cases showcasing its versatility and applications.
-https://drive.google.com/drive/folders/1s8SI-G7oxbDg5hJh01vjfJm_0FGupGAj
+file:///C:/Users/pc/Downloads/Project%20Report.pdf
