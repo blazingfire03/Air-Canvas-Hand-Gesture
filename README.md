@@ -21,4 +21,5 @@ Cross-platform Compatibility: Depending on the implementation, the "Air Canvas" 
 Applications of such a project include digital art creation, interactive presentations, educational tools, or even assistive technology for individuals with mobility impairments.
 
 The project's detailed description often includes technical specifications, the underlying technology stack, methodologies employed for gesture recognition, implementation details, and potential use cases showcasing its versatility and applications.
-file:///C:/Users/pc/Downloads/Project%20Report.pdf
+![image](https://github.com/blazingfire03/Air-Canvas-Hand-Gesture/assets/99821502/81f67373-7559-4bca-92f3-6d31421fde8f)
+
